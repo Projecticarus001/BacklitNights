@@ -1,0 +1,20 @@
+{
+    "title": "BacklitNights",
+    "name": "BacklitNights",
+    "description": "BacklitNights Theme for Brackets. Dark and minimal.",
+    "version": "1.0.0",
+    "author": "projecticarus001 (https://github.com/larz0)",
+    "homepage": "https://github.com/Projecticarus001",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/Energy.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "BacklitNights.css",
+        "dark": true
+    }
+}
